@@ -11,4 +11,4 @@ on: [pull_request, workflow_dispatch]
 jobs:
   pr-checks:
     name: Checks
-    uses: seL4/ci-actions/.github/workflows/pr.yml@master
+    uses: DeepcometAI/ci-actions/.github/workflows/pr.yml@master
