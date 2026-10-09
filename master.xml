@@ -9,6 +9,6 @@
 <!-- include all the common repositories, we just want to define the kernel -->
 <include name="common.xml"/>
 
-<project name="perception.git" path="kernel" remote="deepcomet"/>
+<project name="perception.git" path="kernel" remote="deepcomet" revision="perception-0.1"/>
 
 </manifest>
